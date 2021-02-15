@@ -7,7 +7,13 @@
 body {
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 16px;
-    background: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg), #18a0ac;
-    background-position: left top, right bottom;
+    background-color: hsl(185, 75%, 39%);
+    background-image: 
+        url(../images/bg-pattern-top.svg), 
+        url(../images/bg-pattern-bottom.svg);
+    background-position: 
+        
     background-repeat: no-repeat;
 }
+
+
